@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.button {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.image {
+  margin: 20px;
+}
